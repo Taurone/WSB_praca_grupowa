@@ -46,3 +46,17 @@ section img {
     height: 250px;
     object-fit: cover;
 }
+
+p{
+    text-align: center;
+    line-height: 1.5;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
